@@ -2,19 +2,19 @@
 ## 🧑🏻‍💻✈️🏝️🧗‍♂️🚘
 
 
-# [Website]
+### [Website]
  https://subratpalhar.wordpress.com
-# [GitHub]
+### [GitHub]
  https://github.com/subratpalhar92
- # [Stack Overflow]
+### [Stack Overflow]
  https://stackoverflow.com/users/7165138/subrat-kumar-palhar?tab=profile
- # [LinkedIn]
+### [LinkedIn]
  https://www.linkedin.com/in/subrat-palhar100
  
- # [Twitter]
+### [Twitter]
  @subratpalhar
  https://twitter.com/subratpalhar
- # [Facebook]
+### [Facebook]
  https://www.facebook.com/hisubratpalhar
 
 
