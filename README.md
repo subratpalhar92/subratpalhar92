@@ -3,7 +3,7 @@
 
 
 ### [Website]
- https://subratpalhar.wordpress.com
+ https://subrat-kumar-palhar.web.app
 ### [GitHub]
  https://github.com/subratpalhar92
 ### [Stack Overflow]
