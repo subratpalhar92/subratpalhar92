@@ -4,18 +4,22 @@
 
 ### [Website]
  https://subrat-kumar-palhar.web.app
-### [GitHub]
- https://github.com/subratpalhar92
-### [Stack Overflow]
- https://stackoverflow.com/users/7165138/subrat-kumar-palhar?tab=profile
+
+
 ### [LinkedIn]
  https://www.linkedin.com/in/subrat-palhar100
+
+### [Leetcode]
+ https://leetcode.com/u/subratpalhar92/
+
+### [Stack Overflow]
+ https://stackoverflow.com/users/7165138/subrat-kumar-palhar?tab=profile
+
+ 
  
 ### [Twitter]
  @subratpalhar
  https://twitter.com/subratpalhar
-### [Facebook]
- https://www.facebook.com/hisubratpalhar
 
 
 <!---
